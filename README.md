@@ -4,7 +4,7 @@ A portfolio website to showcase my technical skills.
 
 
 ## 🚀 About Me
-I am a frontend developer with good command of HTML5, CSS3, javascript, and React. I am currently learning backend technologies Node.js, Express, and MongoDB.
+I am a Data Analyst with strong command on SQL, Python (Pandas, Numpy), Snowflake SQL, and Advanced Excel. I've been in forefront of generating actionable insights enabling clients to take business decision efficiently. Now, I am curious about what happens behind the scenes with the data. Hence, I am learning about data engineering.
 
 ## Visit my <a href="https://lucky-dewangan.vercel.app" target=_blank>Portfolio</a> 
 
