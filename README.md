@@ -1,4 +1,4 @@
-# Developer-portfolio
+# Portfolio - Lucky Dewangan
 
 A portfolio website to showcase my technical skills.
 
